@@ -30,16 +30,16 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 
 ## 🚀 What I Do
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Product Thinking
 - Identifying user pain points and designing solutions around them
 - Taking ideas from concept → prototype → working product
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Tech Background
 - **Frontend:** React, TypeScript, HTML/CSS
@@ -49,7 +49,6 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 </td>
 </tr>
 </table>
-
 <br/>
 
 ---
@@ -103,6 +102,23 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 
 ---
 
+<br/>
+
+## 🔨 As a Builder
+
+*Projects I contributed to as a developer.*
+
+| Project | Description | Notes |
+|---|---|---|
+| 🛰️ **[DAAS-Vader](https://github.com/DAAS-Vader/DAAS-Vader)** | Cloud computing platform with on-chain resource mediation via Kubernetes · Sui Network | Frontend |
+| ⚽ **[MLB](https://github.com/roode1017/MLB-frontend)** | Virtual soccer draft service | Full-Stack |
+| 📚 **[moodbook-backend](https://github.com/roode1017/moodbook-backend)** | Emotion-based personalized book recommendation platform | Backend |
+
+<br/>
+
+---
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,19 +129,6 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 <br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=roode1017&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
-
-</div>
-
-<br/>
-
----
-
-## 💭 As a Researcher
-
-<div align="center">
-
-*I enjoy breaking down complex technology and concepts into language anyone can understand —*
-*making the unfamiliar feel accessible, and the technical feel exciting.*
 
 </div>
 
