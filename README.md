@@ -95,7 +95,7 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 | Project | Description | Notes |
 |---|---|---|
 | 🏛️ **[Citadel](https://github.com/roode1017/Citadel)** | AI-unauthorized-training prevention image platform based on ZK · blockchain timestamps | **🏆 Buidl Asia 2026 Finalist** |
-| 🧪 **Monadophamine** | Reward platform based on AI agent battle result prediction | Monad Blitz Seoul — 4th place |
+| 🧪 **Monadophamine** | Reward platform based on AI agent battle result prediction | Monad Blitz Seoul 4th · Participant|
 | 📈 **[DeltaX](https://github.com/2025-openSrc6/DeltaX)** | Gamified prediction platform for Gold (PAXG) · Bitcoin price movements | — |
 | 🌐 **Orbis** | Progressive sponsorship platform leveraging GitHub records via smart contracts | — |
 
