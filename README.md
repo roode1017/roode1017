@@ -28,30 +28,7 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 
 ---
 
-## 🚀 What I Do
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Product Thinking
-- Identifying user pain points and designing solutions around them
-- Taking ideas from concept → prototype → working product
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Tech Background
-- **Frontend:** React, TypeScript, HTML/CSS
-- **Backend:** React, Rust
-- **Web3:** Solidity, Sui Move
-
-</td>
-</tr>
-</table>
-<br/>
-
----
 
 ## 🛠 Tech Stack
 
