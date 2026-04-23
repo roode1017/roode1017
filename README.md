@@ -101,7 +101,7 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=roode1017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roode1017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roode1017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&exclude_repo=bay-reth,sui" />
 
 <br/><br/>
 
@@ -110,6 +110,7 @@ Particularly drawn to **financial innovation**: stablecoins, Web3 financial infr
 </div>
 
 <br/>
+
 
 ---
 
